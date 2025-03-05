@@ -542,7 +542,7 @@
      .statics {
          padding: 70px 0;
          background-size: cover;
-         background-image: url("Ae.jpg.");
+         background-image: url("Ae.jpg");
          background-repeat: no-repeat;
          background-attachment: fixed;
          position: relative;
